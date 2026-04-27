@@ -14,10 +14,10 @@ The Movie Watchlist App is a web application where users can search for movies, 
 React, JavaScript, CSS, Firebase, TMDb API, GitHub, Deployment
 
 **Project Link:**  
-Add your deployed link here
+https://michael-movie-watchlist.netlify.app
 
 **GitHub Repository:**  
-Add your GitHub repo link here
+https://github.com/Mickey7401/movie-watchlist
 
 **What I Learned:**  
 This project helped me understand how to work with APIs, manage user data, build reusable components, and troubleshoot deployment issues. I also learned how important it is to test features step by step instead of trying to fix everything at once.
@@ -35,10 +35,10 @@ Lakeside Coffee Co. is a static website for a fictional cafe. The goal of this p
 HTML, CSS, JavaScript, GitHub, Deployment
 
 **Project Link:**  
-Add your deployed link here
+https://shiny-sherbet-7ec23a.netlify.app/contact
 
 **GitHub Repository:**  
-Add your GitHub repo link here
+https://github.com/Mickey7401/react-static-story
 
 **What I Learned:**  
 This project helped me practice basic website structure, visual design, page layout, and responsive styling. It was a good foundation project because it focused on making a site that looks professional and makes sense to a user.
@@ -68,6 +68,6 @@ For the final project, I polished my portfolio by organizing my best work into o
 
 ## Contact
 
-Email: Add your email here  
-GitHub: Add your GitHub profile link here  
-LinkedIn: Add your LinkedIn link here, if you have one
+Email: mi075198@ucf.edu  
+GitHub: https://github.com/Mickey7401/final-portfolio  
+LinkedIn: https://www.linkedin.com/in/michael-pereira-9a2229292/
